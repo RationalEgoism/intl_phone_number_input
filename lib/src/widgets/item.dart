@@ -40,7 +40,7 @@ class Item extends StatelessWidget {
             showFlag: showFlag,
             useEmoji: useEmoji,
           ),
-          SizedBox(width: 12.0),
+          SizedBox(width: 0.0),
           Text(
             '$dialCode',
             textDirection: TextDirection.ltr,
